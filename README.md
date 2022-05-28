@@ -1,4 +1,4 @@
-# React-meetups app created with react hooks, routing and redirects, REST API request/response flow etc.
+### React-meetups app created with react hooks, routing and redirects, REST API request/response flow etc.
  https://daria-dudka.github.io/react-meetups/
 
 
