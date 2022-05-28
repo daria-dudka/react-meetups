@@ -1,3 +1,7 @@
+# React-meetups app created with react hooks, routing and redirects, REST API request/response flow etc.
+ https://daria-dudka.github.io/react-meetups/
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
