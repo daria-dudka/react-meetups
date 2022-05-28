@@ -16,7 +16,7 @@ function MainNavigation() {
               className={({ isActive }) =>
                 isActive ? `${classes.active}` : undefined
               }
-              to='/'
+              to='/react-meetups/'
             >
               All Meetups
             </NavLink>
