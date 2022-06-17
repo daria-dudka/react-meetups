@@ -1,4 +1,4 @@
-### React-meetups app created with react hooks, routing and redirects, Firebase API etc.
+### A single page application build with React.js. The project was built using react hooks, routing and Firebise API.
  https://daria-dudka.github.io/react-meetups/
 
 
